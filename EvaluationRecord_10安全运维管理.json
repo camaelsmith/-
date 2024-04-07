@@ -1,0 +1,927 @@
+{
+  "Name": "安全运维管理",
+  "SafetyControlPoint": {
+    "huanjingGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "zichanGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "jiezhiGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "shebeiWHGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "loudongFXGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "wangluoXTSWGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "e":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "f":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "g":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "h":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "i":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "j":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "eyidaimaFFGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "peizhiGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "mimaGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "biangengGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "beifenHFGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "anquanSJCZ": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "yingjiYAGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "waibaoYWGL": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    }
+  },
+  "OverallEvaluation": ""
+}

@@ -1,0 +1,590 @@
+{
+  "Name": "安全物理环境",
+  "SafetyControlPoint": {
+    "wuliWZXZ": {
+      "a": {
+        "name": "机房场地应选择在具有防震、防风和防雨等能力的建筑内",
+        "Request":[
+            { 
+            "Method": "核查是否有建筑物抗震设防审批文档",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+            }, {
+            "Method": "核查是否有雨水渗漏的痕迹",
+            "YesDecision": ["否","无"],
+            "NoDecision":["是","有"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+          }, {
+            "Method": "核查是否有可灵活开启的窗户。若有窗户，则核查是否采取了封闭、上锁等防护措施",
+            "YesDecision": ["否","无"],
+            "NoDecision": ["是","有"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+          }, {
+            "Method": "核查屋顶、墙体、门窗和地面等是否有破损、开裂的情况",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+          }
+        ],
+        "id": 4,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "机房场地应避免设在建筑物的顶层或地下室，否则应加强防水和防潮措施",
+        "Request":[
+          {
+            "Method": "核查机房是否设置在建筑物的顶层或地下室",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+          },
+          {
+            "Method": "若机房设置在建筑物的顶层或地下室，则核查机房是否采取了防水和防潮措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "wuliFWKZ": {
+      "a": {
+        "name": "机房出入口应配置电子门禁系统，控制、鉴别和记录进入的人员",
+        "Request":[
+          {
+            "Method": "核查机房出入口是否配置了电子门禁系统",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }, {
+            "Method": "核查电子门禁系统是否开启并正常运行",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }, {
+            "Method": "核查电子门禁系统是否可以鉴别、记录进入的人员信息",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 3,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "fangDQFPH": {
+      "a": {
+        "name": "应将设备或主要部件进行固定，并设置明显的不易除去的标识",
+        "Request":[
+          {
+            "Method": "核查机房内的设备或主要部件是否进行了固定",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }, {
+            "Method": "核查机房内的设备或主要部件上是否设置了明显的、不易除去的标识",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应将通信线缆铺设在隐蔽安全处",
+        "Request":[
+          {
+            "Method": "核查机房内的通信线缆是否铺设在隐蔽安全处",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c": {
+        "name": "应设置机房防盗报警系统或设置有专人值守的视频监控系统",
+        "Request":[
+          {
+            "Method": "核查是否配置了防盗报警系统或有专人值守的视频监控系统",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查防盗报警系统或视频监控系统是否开启并正常运行",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "fangLJ": {
+      "a": {
+        "name": "应将各类机柜、设施和设备等通过接地系统安全接地",
+        "Request":[
+          {
+            "Method": "核查机房内的机柜、设施和设备等是否进行了接地处理",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应采取措施防止感应雷，例如设置防雷保安器或过压保护装置等",
+        "Request":[
+          {
+            "Method": "核查机房内是否采取了防感应雷措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查防雷装置是否通过了验收或国家有关部门的技术检测",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "fangH": {
+      "a": {
+        "name": "机房应设置火灾自动消防系统，能够自动检测火情、自动报警，并自动灭火",
+        "Request":[
+          {
+            "Method": "核查机房内是否设置了火灾自动消防系统",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查火灾自动消防系统是否可以自动检测火情、自动报警并自动灭火",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查火灾自动消防系统是否通过了验收或国家有关部门的技术检测",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 3,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "机房及相关的工作房间和辅助房应采用具有耐火等级的建筑材料",
+        "Request":[
+          {
+            "Method": "核查机房验收文档中是否明确记录了所用建筑材料的耐火等级",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c": {
+        "name": "应对机房划分区域进行管理，区域和区域之间设置隔离防火措施",
+        "Request":[
+          {
+            "Method": "核查机房是否进行了区域划分",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查机房内各区域之间是否采取了防火隔离措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "fangSFC": {
+      "a": {
+        "name": "应采取措施防止雨水通过机房窗户、屋顶和墙壁渗透",
+        "Request":[
+          {
+            "Method": "核查机房的窗户、屋顶和墙壁是否采取了防渗漏措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应采取措施防止机房内水蒸气结露和地下积水的转移与渗透",
+        "Request":[
+          {
+            "Method": "核查机房内是否采取了防止水蒸气结露的措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查机房内是否采取了排水措施来防止地面积水",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c": {
+        "name": "应安装对水敏感的检测仪表或元件，对机房进行防水检测和报警",
+        "Request":[
+          {
+            "Method": "核查机房内是否安装了对水敏感的检测装置",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查机房内的防水检测和报警装置是否开启并正常运行",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "fangJD": {
+      "a": {
+        "name": "应采用防静电地板或地面并采用必要的接地防静电措施",
+        "Request":[
+          {
+            "Method": "核查机房内是否安装了防静电地板",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查机房内是否采用了防静电接地措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应采取措施防止静电的产生，例如采用静电消除器、佩戴防静电手环等",
+        "Request":[
+          {
+            "Method": "机房内需要配备静电消除器，工作人员可佩戴防静电手环等，以消除静电",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "wenSDKZ": {
+      "a": {
+        "name": "应设置温湿度自动调节设施，使机房温湿度的变化在设备运行所允许的范围之内",
+        "Request":[
+          {
+            "Method": "核查机房内是否配备了专用空调",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查机房内的温湿度是否在设备运行所允许的范围之内",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "dianLGY": {
+      "a": {
+        "name": "应在机房供电线路上配置稳压器和过电压防护设备",
+        "Request":[
+          {
+            "Method": "核查供电线路上是否配置了稳压器和过电压防护设备",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "在进行现场观测时，稳压器和过电压防护设备是否工作正常",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应提供短期的备用电力供应，至少满足设备在断电情况下的正常运行要求",
+        "Request":[
+          {
+            "Method": "核查机房是否配备了UPS等备用供电系统",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },
+          {
+            "Method": "核查UPS等备用供电系统的运行切换记录和检修维护记录",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c": {
+        "name": "应设置冗余或并行的电力电缆线路为计算机系统供电",
+        "Request":[
+          {
+            "Method": "核查是否设置了冗余或并行的电力电缆线路为计算机系统供电",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "dianCFH": {
+      "a": {
+        "name": "电源线和通信线缆应隔离铺设，避免互相干扰",
+        "Request":[
+          {
+            "Method": "核查机房内电源线缆和通信线缆是否隔离铺设",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应对关键设备实施电磁屏蔽",
+        "Request":[
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "核查是否为关键设备配备了电磁屏蔽装置",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    }
+  },
+  "OverallEvaluation":""
+}

@@ -1,0 +1,252 @@
+{
+  "Name": "安全通信网络",
+  "SafetyControlPoint":{
+    "wangluoJG": {
+      "a": {
+        "name": "应保证网络设备的业务处理能力满足业务高峰期需要",
+        "Request":[
+          {
+            "Method": "访谈网络管理员，了解业务高峰时期为何时，核查边界设备和主要网络设备的处理能力是否满足业务高峰期需要，询问采用何种手段对主要网络设备的运行状态进行监控",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "访谈或核查是否曾因设备处理能力不足而出现宕机的情况。可核查综合网管系统的告警日志或设备运行时间等，或者访谈网络管理员，了解是否因设备处理能力不足而进行了设备升级",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查设备在一段时间内的性能峰值，结合设备自身的承载性能，分析设备是否能够满足业务处理要求",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 3,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应保证网络各个部分的带宽满足业务高峰期需要",
+        "Request":[
+          {
+            "Method": "询问管理员业务高峰期的流量使用情况，核查是否部署了流量控制设备对关键业务系统的流量带宽进行控制，或者在相关设备上启用了 QoS配置对网络各个部分进行带宽分配，以保证业务高峰期业务服务的连续性",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查综合网管系统在业务高峰期的带宽占用情况，分析是否满足业务需求。如果无法满足业务高峰期需要，则要在主要网络设备上进行带宽配置",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "测试验证网络各个部分的带宽是否满足业务高峰期需要",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 3,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c": {
+        "name": "应划分不同的网络区域，并按照方便管理和控制的原则为各网络区域分配地址",
+        "Request":[
+          {
+            "Method": "询问网络管理员是否依据部门的工作职能、等级保护对象的重要程度、应用系统的级别等实际情况和区域安全防护要求划分了不同的VLAN。核查相关网络设备配置信息，验证划分的网络区域是否与划分原则一致",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "d": {
+        "name": "应避免将重要网络区域部署在边界处，重要网络区域与其他网络区域之间应采取可靠的技术隔离手段",
+        "Request":[
+          {
+            "Method": "核查网络拓扑图是否与实际网络运行环境一致",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查重要网络区域是否部署在网络边界处（应为未部署在网络边界处），以及在网络区域边界处是否部署了安全防护措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "核查重要网络区域与其他网络区域（例如应用系统区、数据库系统区等重要网络区域）之间是否采取了可靠的技术隔离手段，以及是否部署了网闸、防火墙和设备访问控制列表（ACL）等",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 3,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "e": {
+        "name": "应提供通信线路、关键网络设备和关键计算设备的硬件冗余，保证系统的可用性",
+        "Request":[
+          {
+            "Method": "核查系统的出口路由器、核心交换机、安全设备等关键设备是否有硬件冗余和通信线路冗余来保证系统的高可用性",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 1,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "tongxinCS": {
+      "a": {
+        "name": "应采用校验技术或密码技术保证通信过程中数据的完整性",
+        "Request":[
+          {
+            "Method": "核查是否在传输过程中使用校验技术或密码技术来保证数据的完整性",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "测试验证设备或组件是否能够保证通信过程中数据的完整性",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b": {
+        "name": "应采用密码技术保证通信过程中数据的保密性",
+        "Request":[
+          {
+            "Method": "核查是否在通信过程中采取了保密措施，了解具体采取了哪些措施",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "测试验证在通信过程中是否对敏感信息字段或整个报文进行了加密。可以使用通信协议分析工具，通过流量镜像等方式抓取网络中的数据，验证数据是否被加密",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 2,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "kexinYZ": {
+      "a": {
+        "name": "可基于可信根对通信设备的系统引导程序、系统程序、重要配置参数和通信应用程序等进行可信验证，并在应用程序的关键执行环节进行动态可信验证，在检测到其可信性受到破坏后进行报警，并将验证结果形成审计记录送至安全管理中心",
+        "Request":[
+          {
+            "Method": "通信设备(交换机、路由器和其他通信设备)具有可信根芯片或硬件",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "启动过程基于可信根对系统引导程序、系统程序、重要配置参数和关键应用程序等进行可信验证度量",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "在检测到设备的可信性受到破坏后进行报警，并将验证结果形成审计记录送至安全管理中心",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          },{
+            "Method": "安全管理中心可以接收设备的验证结果记录",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": 4,
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    }
+  },
+  "OverallEvaluation": ""
+}

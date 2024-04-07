@@ -1,0 +1,282 @@
+{
+  "Name": "安全管理机构",
+  "SafetyControlPoint": {
+    "gangweiSZ": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "renyuanPB": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "shouquanSP": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "goutongHZ": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    },
+    "shenheJC": {
+      "a":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "b":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      },
+      "c":{
+        "name": "",
+        "Request": [
+          {
+            "Method": "",
+            "YesDecision": ["是","有"],
+            "NoDecision": ["否","无"],
+            "YesDescription": "",
+            "NoDescription": "",
+            "Suggestion": ""
+
+          }
+        ],
+        "id": "",
+        "EvaluationRecord": "",
+        "Result": "",
+        "Suggestion": "",
+        "Risk": ""
+      }
+    }
+  },
+  "OverallEvaluation": ""
+}
